@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Repos /> should render and match the snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="ant-card ant-card-bordered Card__CustomCard-sc-7y2i64-0 hWoWqx"
+      data-testid="repos"
+    >
+      <div
+        class="ant-card-body"
+      >
+        <div
+          class="Repos__Container-sc-1y64nrh-0 iMgkMF"
+          data-testid="for"
+          orientation="row"
+        >
+          <div
+            class="ant-card ant-card-bordered Card__CustomCard-sc-7y2i64-0 hWoWqx"
+            data-testid="repo-card"
+          >
+            <div
+              class="ant-card-body"
+            >
+              <p
+                class="T__StyledText-gjlic1-0 kYcyRq"
+                data-testid="name"
+              >
+                Repository Name: kuntham
+              </p>
+              <p
+                class="T__StyledText-gjlic1-0 kYcyRq"
+                data-testid="fullName-unavailable"
+              >
+                Repository full name unavaiable
+              </p>
+              <p
+                class="T__StyledText-gjlic1-0 kYcyRq"
+                data-testid="stargazers-unavaiable"
+              >
+                Repository stars are unavaiable
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
